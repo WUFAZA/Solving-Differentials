@@ -1,4 +1,4 @@
-# Solviing-Differentials
+# Solving-Differentials
 Not sure I'd complete but this is for fun and aid my understanding :):)
 ## Why I'm doing this 
 Finally understood differentials and want to cement my understanding ???? not so sure though 
